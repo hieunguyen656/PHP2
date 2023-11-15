@@ -1,0 +1,18 @@
+{
+    "name": "admin/asm2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hieunguyen",
+            "email": "vanhieu2772@gmail.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2",
+        "eftec/bladeone": "^4.9"
+    }
+}
